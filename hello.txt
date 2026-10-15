@@ -1,1 +1,2 @@
 ﻿Hello from my first GitHub repo!
+学习 GitHub 第 2 天：今天学会了 git clone 和 git log。
